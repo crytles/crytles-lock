@@ -1,0 +1,14 @@
+{
+  "name": "Crytles Lock",
+  "description": "Token and LP locks for crytles.com. No owner, no pause, no early exit.",
+  "logo": "https://crytles.com/icon-512.png",
+  "project_url": "https://crytles.com/lock/",
+  "contacts": [
+    "email:crytles@proton.me",
+    "twitter:@thecrytles"
+  ],
+  "preferred_languages": [
+    "en"
+  ],
+  "version": "0.1.0"
+}
